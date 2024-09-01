@@ -1,0 +1,63 @@
+﻿@model UpdateContactDto
+@{
+	ViewData["Title"] = "CreateContact";
+	Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<div class="content">
+	<div class="container-fluid">
+		<h4 class="page-title">Anasayfa İletişim İşlemleri</h4>
+		<div class="row">
+			<div class="col-md-12">
+				<form method="post">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Yeni İletişim Alanı Girişi</div>
+						</div>
+						<input type="hidden" asp-for="ContactID" />
+						<div class="card-body">
+							<div class="form-group">
+								<label for="Location">Lokasyonu Giriniz</label>
+								<input type="text" class="form-control" asp-for="Location" id="Location">
+							</div>
+							<div class="form-group">
+								<label for="Phone">Telefon Numarası</label>
+								<input  class="form-control" asp-for="Phone" id="Phone"></input>
+							</div>
+							<div class="form-group">
+								<label for="title">Alt Başlık</label>
+								<input class="form-control" asp-for="FooterTitle" id="title"></input>
+							</div>
+							<div class="form-group">
+								<label for="opendays">Açık Günler</label>
+								<input class="form-control" asp-for="OpenDays" id="opendays"></input>
+							</div>
+							<div class="form-group">
+								<label for="opendaysdescription">Açık Günler Açıklama</label>
+								<input class="form-control" asp-for="OpenDaysDescription" id="opendaysdescription"></input>
+							</div>
+
+							<div class="form-group">
+								<label for="OpenHours">Açık Saatler</label>
+								<input class="form-control" asp-for="OpenHours" id="OpenHours"></input>
+							</div>
+							<div class="form-group">
+								<label for="Mail">Mail Adresi</label>
+								<input type="email" class="form-control" asp-for="Mail" id="Mail">
+							</div>
+							<div class="form-group">
+								<label for="FooterDescription">Açıklama</label>
+								<input type="text" class="form-control" asp-for="FooterDescription" id="FooterDescription">
+							</div>
+						</div>
+						<div class="card-action">
+							<button class="btn btn-success">Kaydet</button>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+

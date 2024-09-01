@@ -1,0 +1,805 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FloverBasketWebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FloverBasketWebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\LICENSE",
+      "PackagePath": "staticwebassets\\dashboard"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\README.md",
+      "PackagePath": "staticwebassets\\dashboard\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\css\\ready.css",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\css\\ready.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\css\\ready.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\css\\ready.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\css\\ready.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\css\\ready.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\img\\menu.png",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\img\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\img\\menu2.png",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\img\\menu2.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\img\\profile2.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\img\\profile2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\chart-circle\\circles.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\chart-circle\\circles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\ready.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\ready.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\js\\ready.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\js\\ready.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\_background.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\_components.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\_layouts.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\_line-awesome.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\_line-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\_outlinefocus.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\_outlinefocus.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\_plugins.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\_plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\_responsive.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\_typography.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\_variables.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_alerts.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_charts.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_inputs.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_maps.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_modals.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_navpills.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_navpills.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_navsearch.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_navsearch.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_paginations.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_paginations.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_sliders.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_sliders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\plugins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\plugins\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\plugins\\_jqueryui.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\plugins\\_jqueryui.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\assets\\sass\\ready\\plugins\\_toggle.scss",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\sass\\ready\\plugins\\_toggle.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\components.html",
+      "PackagePath": "staticwebassets\\dashboard\\components.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\forms.html",
+      "PackagePath": "staticwebassets\\dashboard\\forms.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\icons.html",
+      "PackagePath": "staticwebassets\\dashboard\\icons.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\index.html",
+      "PackagePath": "staticwebassets\\dashboard\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\notifications.html",
+      "PackagePath": "staticwebassets\\dashboard\\notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\tables.html",
+      "PackagePath": "staticwebassets\\dashboard\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\dashboard\\typography.html",
+      "PackagePath": "staticwebassets\\dashboard\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\about.html",
+      "PackagePath": "staticwebassets\\feane\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\book.html",
+      "PackagePath": "staticwebassets\\feane\\book.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\feane\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\feane\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\feane\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\css\\style.css",
+      "PackagePath": "staticwebassets\\feane\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\feane\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\css\\style.scss",
+      "PackagePath": "staticwebassets\\feane\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\feane\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\feane\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\feane\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\feane\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\feane\\images\\client1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\feane\\images\\client2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\f1.png",
+      "PackagePath": "staticwebassets\\feane\\images\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\f2.png",
+      "PackagePath": "staticwebassets\\feane\\images\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\f3.png",
+      "PackagePath": "staticwebassets\\feane\\images\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\f4.png",
+      "PackagePath": "staticwebassets\\feane\\images\\f4.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\f5.png",
+      "PackagePath": "staticwebassets\\feane\\images\\f5.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\f6.png",
+      "PackagePath": "staticwebassets\\feane\\images\\f6.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\f7.png",
+      "PackagePath": "staticwebassets\\feane\\images\\f7.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\f8.png",
+      "PackagePath": "staticwebassets\\feane\\images\\f8.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\f9.png",
+      "PackagePath": "staticwebassets\\feane\\images\\f9.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\feane\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\feane\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\feane\\images\\o1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\feane\\images\\o2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\index.html",
+      "PackagePath": "staticwebassets\\feane\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\feane\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\js\\custom.js",
+      "PackagePath": "staticwebassets\\feane\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\feane\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\feane\\menu.html",
+      "PackagePath": "staticwebassets\\feane\\menu.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\css\\nunito-font.css",
+      "PackagePath": "staticwebassets\\regform\\css\\nunito-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\css\\style.css",
+      "PackagePath": "staticwebassets\\regform\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-Black.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-Italic.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\fonts\\Nunito\\OFL.txt",
+      "PackagePath": "staticwebassets\\regform\\fonts\\Nunito\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\images\\Pizza.jpg",
+      "PackagePath": "staticwebassets\\regform\\images\\Pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\images\\Pizza1.jpg",
+      "PackagePath": "staticwebassets\\regform\\images\\Pizza1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\images\\Sauce1.jpg",
+      "PackagePath": "staticwebassets\\regform\\images\\Sauce1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\images\\form-v6.jpg",
+      "PackagePath": "staticwebassets\\regform\\images\\form-v6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\index.html",
+      "PackagePath": "staticwebassets\\regform\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytug\\source\\repos\\Flavor-Basket\\FloverBasketWebUI\\wwwroot\\regform\\readme.txt",
+      "PackagePath": "staticwebassets\\regform\\readme.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FloverBasketWebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FloverBasketWebUI.props",
+      "PackagePath": "build\\FloverBasketWebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FloverBasketWebUI.props",
+      "PackagePath": "buildMultiTargeting\\FloverBasketWebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FloverBasketWebUI.props",
+      "PackagePath": "buildTransitive\\FloverBasketWebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

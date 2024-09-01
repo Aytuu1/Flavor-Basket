@@ -1,0 +1,12 @@
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\bin\Debug\net6.0\FlavorB.EntityLayer.deps.json
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\bin\Debug\net6.0\FlavorB.EntityLayer.dll
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\bin\Debug\net6.0\FlavorB.EntityLayer.pdb
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\obj\Debug\net6.0\FlavorB.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\obj\Debug\net6.0\FlavorB.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\obj\Debug\net6.0\FlavorB.EntityLayer.AssemblyInfo.cs
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\obj\Debug\net6.0\FlavorB.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\obj\Debug\net6.0\FlavorB.EntityLayer.dll
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\obj\Debug\net6.0\refint\FlavorB.EntityLayer.dll
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\obj\Debug\net6.0\FlavorB.EntityLayer.pdb
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\obj\Debug\net6.0\ref\FlavorB.EntityLayer.dll
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorBasketEntityLayer\obj\Debug\net6.0\FlavorB.EntityLayer.csproj.AssemblyReference.cache

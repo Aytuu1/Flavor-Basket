@@ -1,0 +1,11 @@
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\bin\Debug\net6.0\FlavorB.DtoLayer.deps.json
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\bin\Debug\net6.0\FlavorB.DtoLayer.dll
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\bin\Debug\net6.0\FlavorB.DtoLayer.pdb
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\obj\Debug\net6.0\FlavorB.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\obj\Debug\net6.0\FlavorB.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\obj\Debug\net6.0\FlavorB.DtoLayer.AssemblyInfo.cs
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\obj\Debug\net6.0\FlavorB.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\obj\Debug\net6.0\FlavorB.DtoLayer.dll
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\obj\Debug\net6.0\refint\FlavorB.DtoLayer.dll
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\obj\Debug\net6.0\FlavorB.DtoLayer.pdb
+C:\Users\Aytug\source\repos\Flavor-Basket\FlavorB.DtoLayer\obj\Debug\net6.0\ref\FlavorB.DtoLayer.dll
